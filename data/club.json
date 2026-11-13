@@ -1,0 +1,83 @@
+{
+  "name": "Bookish Ladies of Long Beach",
+  "month": "November 2026",
+  "roundId": "2026-11",
+  "maxPicks": 6,
+  "typeformUrl": "",
+  "readingGoal": 1,
+  "booksRead": 0,
+  "books": [
+    {
+      "id": "1",
+      "title": "Book Lovers",
+      "author": "Emily Henry",
+      "genre": "Romance",
+      "isbn": "9780593334836",
+      "description": "A literary agent and an editor cross paths in a small town, with more than work on their minds.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "genre": "Fiction",
+      "isbn": "9781501161933",
+      "description": "A Hollywood icon chooses a journalist to tell the story behind her glamorous, complicated life.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "genre": "Mystery",
+      "isbn": "9781984880987",
+      "description": "Four friends in a retirement village turn their weekly crime discussions toward a real murder.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "genre": "Fiction",
+      "isbn": "9780063204157",
+      "description": "A widow working at an aquarium finds an unexpected connection with a remarkably observant octopus.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "The Very Secret Society of Irregular Witches",
+      "author": "Sangu Mandanna",
+      "genre": "Fantasy",
+      "isbn": "9780593439357",
+      "description": "A solitary witch is invited to teach three young witches in an unconventional household.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "isbn": "9780399590504",
+      "description": "A memoir about family, self-discovery, and the transformative possibilities of education.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": "Fantasy",
+      "isbn": "9780525559474",
+      "description": "Between life and death, a woman explores the lives she might have lived.",
+      "reviewUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "Happy Place",
+      "author": "Emily Henry",
+      "genre": "Romance",
+      "isbn": "9780593441275",
+      "description": "A separated couple pretend they are still together during an annual trip with friends.",
+      "reviewUrl": ""
+    }
+  ]
+}
